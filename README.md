@@ -1,7 +1,7 @@
 # Veneto
 Project on clustering of Veneto dialects.
 
-The veneto_data.csv file has the following format:
+The ```veneto_data.csv``` file has the following format:
 
     Area    Language    Location    word1   word2   word3   word4
     North   B           Bl          vaNZar  aveZ    seNZa   akOrDarse
