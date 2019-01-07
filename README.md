@@ -6,7 +6,7 @@ The ```veneto_data.csv``` file has the following format:
     Area    Language    Location    word1   word2   word3   word4
     North   B           Bl          vaNZar  aveZ    seNZa   akOrDarse
 
-The data have been extracted from PLEDS_ONLINE (https://n411.fmphost.com/fmi/webd#).
+The data have been extracted from PLEDS_ONLINE (https://n411.fmphost.com/fmi/webd#PLEDS_ONLINE).
 In the first column, we report the area where the dialect is spoken ('North' stands for the Northern part of the region), following Zamboni (1974). In the second column, we report the dialect spoken ('B' stands for Bellunese). In the third column, we report its location ('Bl' stands for Belluno). The following colums report the presence of a certain word ('word1' has all the cognates for Italian 'avanzare'). If the word is reported, a phonological transcription is present, otherwise the cell has a '-'. There are about 600 columns in the dataset.
 
 
